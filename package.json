@@ -1,10 +1,10 @@
 {
   "name": "Playwright",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sample playwright tests",
   "main": "index.js",
   "scripts": {
-    "test": "npx playwright run"
+    "test": "npx playwright test"
   },
   "keywords": [],
   "author": "",
